@@ -23,11 +23,12 @@
 
 <h3 align="left">Languages and Tools :</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma,vim&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma&theme=dark)](https://skills.thijs.gg)
 
 <br>
 
 <h3 align="center">📈 My GitHub Stats :
+<br><br>
 
 ![badge](https://visitor-badge.glitch.me/badge?page_id=abhidahal.abhidahal&left_color=grey&right_color=blue)
 
