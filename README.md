@@ -25,7 +25,7 @@
 
 <div align="center"> 
   
-[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma&theme=dark&perline=5)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma,vim&theme=dark&perline=4)](https://skills.thijs.gg)
 </div>
 
 # <h3 align="center"> 📈 My GitHub Stats : </h3>
