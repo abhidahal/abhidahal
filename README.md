@@ -1,10 +1,12 @@
 <h1 align="center" >Hello 👋, I'm Abhishek Dahal</h1>
 
-**<h2 align="center">A Under Graduate Computer Engineer and Web Developer</h2>**
+<h3 align="center">A Under Graduate Computer Engineer and Web Developer
 
-- I’m a passionate self-taught web developer and a freelance software engineer from Nepal.
+</h3>
+<p align="center">I’m a passionate self-taught web developer and a freelance software engineer from Nepal.</p>
 
-<h3 align="left">Connect With Me :</h3>
+
+# <h3 align="left">Connect With Me :</h3>
 
 <a href="https://www.instagram.com/a.b.hi._/">
 <img align="left" alt="Abhi's Instagram" width="40px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -18,24 +20,21 @@
 <a href="https://www.linkedin.com/in/abhishek-dahal-475a3b242/">
 <img align="left" alt="Abhi's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br>
 
-<h3 align="left">Languages and Tools :</h3>
+# <h3 align="left">Languages and Tools :</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,bash,linux,mongodb,express,react,html,css,js,ts,nodejs,py,c,cpp,figma&theme=dark&perline=5)](https://skills.thijs.gg)
 
+# <h3 align="left">📈 My GitHub Stats :
 <br>
-
-<h3 align="center">📈 My GitHub Stats :
-<br><br>
 
 ![badge](https://visitor-badge.glitch.me/badge?page_id=abhidahal.abhidahal&left_color=grey&right_color=blue)
 
 </h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhidahal&show_icons=true&theme=dark" alt="abhidahal" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=abhidahal&show_icons=true&theme=dark" alt="abhidahal" />
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhidahal&show_icons=true&theme=dark" alt="abhidahal" /></p>
+<p align="left"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhidahal&show_icons=true&theme=dark" alt="abhidahal" /></p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhidahal&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhidahal" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhidahal&show_icons=true&theme=dark&locale=en&layout=compact" alt="abhidahal" /></p>
