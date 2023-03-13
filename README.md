@@ -25,7 +25,7 @@
 
 <div align="center"> 
   
-[![My Skills](https://skills.thijs.gg/icons?i=github,git,bash,linux,neovim,mongodb,express,react,nextjs,nodejs,html,css,js,ts,py,c,cpp,figma,materialui,ableton,ps,pr,ae,blender,unreal&theme=dark&perline=5)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=github,git,bash,linux,vscode,neovim,mongodb,express,react,nextjs,nodejs,vite,html,css,js,ts,materialui,figma,c,cpp,py,ableton,vercel,cloudflare,ps,ai,pr,ae,blender,unreal&theme=dark&perline=6)](https://skills.thijs.gg)
 </div>
 
 # <h3 align="center"> 📈 My GitHub Stats : </h3>
