@@ -1,4 +1,4 @@
-<div><img src="https://github.com/abhidahal/abhidahal/blob/main/devcard.svg" width="520" alt="abhidahal's Dev Card" align="right"/></div>
+<div><img src="https://github.com/abhidahal/abhidahal/blob/main/devcard.svg" width="400" alt="abhidahal's Dev Card" align="right"/></div>
 
 <h1 align="center" >Hello 👋, I'm Abhishek Dahal</h1>
 <h3 align="center">A Under Graduate Computer Engineer and Web Developer
