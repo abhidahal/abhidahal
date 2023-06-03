@@ -4,7 +4,7 @@
 <h3 align="center">A Under Graduate Computer Engineer and Web Developer
   
 </h3>
-<p align="center">I’m a passionate self-taught web developer and a freelance software engineer from Nepal.</p>
+<p align="center">I am an enthusiastic and dedicated computer engineering undergraduate with a strong passion for web development. Hailing from Nepal, I thrive on exploring the ever-evolving world of technology and building innovative solutions. As a self-taught web developer, I have honed my skills through practical experiences and constantly seeking opportunities to enhance my knowledge.</p>
 
 # <h3 align="center">Connect With Me :</h3>
 <div align="center">
