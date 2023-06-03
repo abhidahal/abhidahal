@@ -1,7 +1,8 @@
+<div><img src="https://github.com/abhidahal/abhidahal/blob/main/devcard.svg" width="520" alt="abhidahal's Dev Card" align="right"/></div>
+
 <h1 align="center" >Hello 👋, I'm Abhishek Dahal</h1>
-
 <h3 align="center">A Under Graduate Computer Engineer and Web Developer
-
+  
 </h3>
 <p align="center">I’m a passionate self-taught web developer and a freelance software engineer from Nepal.</p>
 
@@ -27,6 +28,9 @@
   
 [![My Skills](https://skills.thijs.gg/icons?i=github,git,bash,linux,vscode,neovim,mongodb,express,react,nextjs,nodejs,vite,html,css,js,ts,materialui,figma,c,cpp,py,ableton,vercel,cloudflare,ps,ai,pr,ae,blender,unreal&theme=dark&perline=6)](https://skills.thijs.gg)
 </div>
+ 
+
+
 
 # <h3 align="center"> 📈 My GitHub Stats : </h3>
 
