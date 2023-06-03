@@ -1,5 +1,5 @@
 <div><img src="https://github.com/abhidahal/abhidahal/blob/main/devcard.svg" width="400" alt="abhidahal's Dev Card" align="right"/></div>
-
+<div wwidth="100px">
 <h1 align="center" >Hello 👋, I'm Abhishek Dahal</h1>
 <h3 align="center">A Under Graduate Computer Engineer and Web Developer
   
@@ -21,6 +21,8 @@
     <img alt="Abhi's Linkedin" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 </div>
+  </div>
+
 
 # <h3 align="center">Languages and Tools :</h3>
 
