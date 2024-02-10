@@ -36,15 +36,9 @@
 
 # <h3 align="center"> 📈 My GitHub Stats : </h3>
 
-<div align="center">
-  
-![badge](https://visitor-badge.glitch.me/badge?page_id=abhidahal.abhidahal&left_color=grey&right_color=blue)
-</div>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhidahal&show_icons=true&theme=transparent" alt="stats" width="500px"/>
 
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhidahal&show_icons=true&theme=transparent&locale=en&layout=compact" alt="stats" width="500px"/></p>
 
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhidahal&show_icons=true&theme=dark" alt="stats" width="500px" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhidahal&show_icons=true&theme=transparent" alt="stats" />
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhidahal&show_icons=true&theme=dark" alt="stats" /></p>
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abhidahal&show_icons=true&theme=transparent&locale=en&layout=compact" alt="stats" /></p>
