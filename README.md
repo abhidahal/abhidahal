@@ -14,8 +14,8 @@
   <a href="https://discord.com/invite/GrNXe8UQXC">
     <img alt="Abhi's Discord" width="40px" src="https://cdn.simpleicons.org/discord" />
   </a>
-  <a href="https://twitter.com/Abhi_B5">
-    <img alt="Abhi | Twitter" width="40px" src="https://cdn.simpleicons.org/twitter" />
+  <a href="https://x.com/abhi_dahal_">
+    <img alt="Abhi | Twitter" width="40px" src="https://cdn.simpleicons.org/x" />
   </a>
   <a href="https://www.linkedin.com/in/abhishek-dahal-475a3b242/">
     <img alt="Abhi's Linkedin" width="40px" src="https://cdn.simpleicons.org/linkedin" />
