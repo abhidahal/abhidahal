@@ -28,7 +28,7 @@
 
 <div align="center"> 
   
-[![My Skills](https://skills.thijs.gg/icons?i=github,git,bash,linux,docker,neovim,mongodb,express,react,nextjs,nodejs,lua,html,css,js,ts,materialui,figma,c,cpp,py,ableton,vercel,cloudflare,ps,ai,pr,ae,blender,unreal&theme=dark&perline=6)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express,solidity,go,python,lua,typescript,javascript,html,css,tailwindcss,materialui,mongodb,postgresql,graphql,vercel,cloudflare,aws,nginx,docker,git,github,githubactions,c,cpp,linux,bash,arch,neovim,blender,unrealengine,ae,ai,adobelightroom,ps,pr,figma&theme=dark&perline=6)](https://abhidahal.me)
 </div>
  
 
