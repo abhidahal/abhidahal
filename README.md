@@ -9,16 +9,17 @@
 # <h3 align="center">Connect With Me :</h3>
 <div align="center">
   <a href="https://www.instagram.com/a.b.hi._/">
-    <img alt="Abhi's Instagram" width="40px" src="https://cdn.simpleicons.org/instagram" />
+    <img alt="Abhi's Instagram" width="40px" src="https://cdn.simpleicons.org/instagram/white" />
   </a>
   <a href="https://discord.com/invite/GrNXe8UQXC">
-    <img alt="Abhi's Discord" width="40px" src="https://cdn.simpleicons.org/discord" />
+    <img alt="Abhi's Discord" width="40px" src="https://cdn.simpleicons.org/discord/white" />
   </a>
   <a href="https://x.com/abhi_dahal_">
-    <img alt="Abhi | Twitter" width="40px" src="https://cdn.simpleicons.org/x" />
+    <img alt="Abhi | Twitter" width="40px" src="https://cdn.simpleicons.org/x/white" />
+    
   </a>
   <a href="https://www.linkedin.com/in/abhidahal">
-    <img alt="Abhi's Linkedin" width="40px" src="https://cdn.simpleicons.org/linkedin" />
+    <img alt="Abhi's Linkedin" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwKdp_mpoS-v7aqaYDKln6t9ZtG54dbhVj6A&s" />
   </a>
 </div>
   </div>
