@@ -17,7 +17,7 @@
   <a href="https://x.com/abhi_dahal_">
     <img alt="Abhi | Twitter" width="40px" src="https://cdn.simpleicons.org/x" />
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-dahal-475a3b242/">
+  <a href="https://www.linkedin.com/in/abhidahal">
     <img alt="Abhi's Linkedin" width="40px" src="https://cdn.simpleicons.org/linkedin" />
   </a>
 </div>
