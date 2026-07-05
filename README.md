@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://dabhishek.com.np">
-    <img alt="Founder & Tech Lead at Asteroid Studio · I design, build, deploy - and maintain · One owner from first commit to uptime"
-      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=1071EA&center=true&vCenter=true&width=760&height=64&lines=Founder+%26+Tech+Lead+at+Asteroid+Studio;I+design%2C+build%2C+deploy+-+and+maintain;One+owner+from+first+commit+to+uptime" />
+    <img alt="Founder & Tech Lead at Asteroid Studio · I design, build, deploy, and maintain · One owner from first commit to uptime"
+      src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=1071EA&center=true&vCenter=true&width=760&height=64&lines=Founder+%26+Tech+Lead+at+Asteroid+Studio;I+design%2C+build%2C+deploy%2C+and+maintain;One+owner+from+first+commit+to+uptime" />
   </a>
 </div>
 
@@ -12,11 +12,11 @@
 </p>
 
 <h1 align="center">Abhishek Dahal</h1>
-<p align="center"><b>Your product, built right - and kept running.</b></p>
+<p align="center"><b>Your product, built right, and kept running.</b></p>
 
 <p align="center">
   Founder &amp; Tech Lead at <a href="https://www.asteroidstudio.org/">Asteroid&nbsp;Studio</a>, a founder-led web studio in Kathmandu.<br />
-  I design, build, deploy, and maintain web apps end to end - one owner from first commit to uptime.
+  I design, build, deploy, and maintain web apps end to end: one owner from first commit to uptime.
 </p>
 
 <p align="center">
@@ -45,17 +45,17 @@
 <table width="100%">
   <tr>
     <td><b><a href="https://www.asteroidstudio.org/">Asteroid Studio</a></b></td>
-    <td>The studio I founded - design + engineering, built in-house.</td>
+    <td>The studio I founded: design + engineering, built in-house.</td>
     <td><a href="https://dabhishek.com.np/projects/asteroid-studio">Case study →</a></td>
   </tr>
   <tr>
-    <td width="26%"><b><a href="https://cms.theasteroid.tech/">Asteroid CMS</a></b> · <sub>2024–present</sub></td>
-    <td width="56%">Multi-tenant headless CMS - model content visually, serve any frontend through one SDK.</td>
+    <td width="26%"><b><a href="https://cms.theasteroid.tech/">Asteroid CMS</a></b></td>
+    <td width="56%">Multi-tenant headless CMS: model content visually, serve any frontend through one SDK.</td>
     <td width="18%"><a href="https://dabhishek.com.np/projects/asteroid-cms">Case study →</a></td>
   </tr>
   <tr>
     <td><b><a href="https://eviebooks.com">Evie Books</a></b></td>
-    <td>Web ERP for growing Nepali businesses - accounting, IRD-compliant tax, billing &amp; inventory.</td>
+    <td>Web ERP for growing Nepali businesses: accounting, IRD-compliant tax, billing &amp; inventory.</td>
     <td><a href="https://www.asteroidstudio.org/works/eviebooks">Case study →</a></td>
   </tr>
   <tr>
@@ -109,11 +109,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/abhidahal">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-0E0E0E?style=flat-square&logo=github&logoColor=white&labelColor=0E0E0E" />
-  </a>
   <a href="https://www.linkedin.com/in/abhidahal">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=flat-square&logo=linkedin&logoColor=54A4FF&labelColor=0E0E0E" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0E0E0E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPgo%3D&labelColor=0E0E0E" />
   </a>
   <a href="https://x.com/abhi_dahal_">
     <img alt="X" src="https://img.shields.io/badge/X-0E0E0E?style=flat-square&logo=x&logoColor=white&labelColor=0E0E0E" />
@@ -123,5 +120,5 @@
   </a>
 </p>
 
-<p align="center"><sub><i>No forms, no funnel - you'll get me, not an autoresponder.</i></sub></p>
+<p align="center"><sub><i>No forms, no funnel. You'll get me, not an autoresponder.</i></sub></p>
 <p align="center"><b>abhidahal.</b></p>
