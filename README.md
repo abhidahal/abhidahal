@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <img alt="Founder & Tech Lead" src="https://img.shields.io/badge/FOUNDER_&_TECH_LEAD-1071EA?style=flat-square&labelColor=0E0E0E" />
-  <img alt="Full-stack web developer" src="https://img.shields.io/badge/FULL--STACK_WEB_DEVELOPER-0E0E0E?style=flat-square&labelColor=0E0E0E" />
-  <img alt="Kathmandu, Nepal" src="https://img.shields.io/badge/KATHMANDU,_NEPAL-0E0E0E?style=flat-square&labelColor=0E0E0E" />
+  <a href="https://www.asteroidstudio.org/"><img alt="Founder & Tech Lead" src="https://img.shields.io/badge/FOUNDER_&_TECH_LEAD-1071EA?style=flat-square&labelColor=0E0E0E" /></a>
+  <a href="https://dabhishek.com.np"><img alt="Full-stack web developer" src="https://img.shields.io/badge/FULL--STACK_WEB_DEVELOPER-0E0E0E?style=flat-square&labelColor=0E0E0E" /></a>
+  <a href="https://www.google.com/maps/place/Kathmandu"><img alt="Kathmandu, Nepal" src="https://img.shields.io/badge/KATHMANDU,_NEPAL-0E0E0E?style=flat-square&labelColor=0E0E0E" /></a>
 </p>
 
 <h1 align="center">Abhishek Dahal</h1>
@@ -26,20 +26,20 @@
   <a href="mailto:abhidahal7@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-0E0E0E?style=flat-square&logo=gmail&logoColor=54A4FF&labelColor=0E0E0E" />
   </a>
-  <img alt="Open to new engagements" src="https://img.shields.io/badge/●-Open_to_new_engagements-1071EA?style=flat-square&labelColor=0E0E0E" />
+  <a href="mailto:abhidahal7@gmail.com"><img alt="Open to new engagements" src="https://img.shields.io/badge/●-Open_to_new_engagements-1071EA?style=flat-square&labelColor=0E0E0E" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=abhidahal&label=Profile%20views&color=1071ea&style=flat-square" />
 </p>
 
 <br />
 
 <p align="center">
-  <img alt="Proof in production" src="https://img.shields.io/badge/%E2%96%B8_PROOF_IN_PRODUCTION-0E0E0E?style=flat-square" />
+  <a href="https://dabhishek.com.np/projects"><img alt="Proof in production" src="https://img.shields.io/badge/%E2%96%B8_PROOF_IN_PRODUCTION-0E0E0E?style=flat-square" /></a>
 </p>
 
 <p align="center">
-  <img alt="5+ years shipping" src="https://img.shields.io/badge/5+-years_shipping-1071EA?style=flat-square&labelColor=0E0E0E" />
-  <img alt="15 projects delivered" src="https://img.shields.io/badge/15-projects_delivered-1071EA?style=flat-square&labelColor=0E0E0E" />
-  <img alt="7 live in production" src="https://img.shields.io/badge/7-live_in_production-1071EA?style=flat-square&labelColor=0E0E0E" />
+  <a href="https://dabhishek.com.np/projects"><img alt="5+ years shipping" src="https://img.shields.io/badge/5+-years_shipping-1071EA?style=flat-square&labelColor=0E0E0E" /></a>
+  <a href="https://dabhishek.com.np/projects"><img alt="15 projects delivered" src="https://img.shields.io/badge/15-projects_delivered-1071EA?style=flat-square&labelColor=0E0E0E" /></a>
+  <a href="https://dabhishek.com.np/projects"><img alt="7 live in production" src="https://img.shields.io/badge/7-live_in_production-1071EA?style=flat-square&labelColor=0E0E0E" /></a>
 </p>
 
 <table width="100%">
@@ -68,7 +68,7 @@
 <br />
 
 <p align="center">
-  <img alt="Stack" src="https://img.shields.io/badge/%E2%96%B8_STACK-0E0E0E?style=flat-square" />
+  <a href="https://dabhishek.com.np"><img alt="Stack" src="https://img.shields.io/badge/%E2%96%B8_STACK-0E0E0E?style=flat-square" /></a>
 </p>
 
 <div align="center">
@@ -80,7 +80,7 @@
 <br />
 
 <p align="center">
-  <img alt="Activity" src="https://img.shields.io/badge/%E2%96%B8_ACTIVITY-0E0E0E?style=flat-square" />
+  <a href="https://github.com/abhidahal"><img alt="Activity" src="https://img.shields.io/badge/%E2%96%B8_ACTIVITY-0E0E0E?style=flat-square" /></a>
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@
 <br />
 
 <p align="center">
-  <img alt="Connect" src="https://img.shields.io/badge/%E2%96%B8_CONNECT-0E0E0E?style=flat-square" />
+  <a href="mailto:abhidahal7@gmail.com"><img alt="Connect" src="https://img.shields.io/badge/%E2%96%B8_CONNECT-0E0E0E?style=flat-square" /></a>
 </p>
 
 <p align="center">
